@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\bin\Debug\dataapp.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\bin\Debug\dataapp.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\bin\Debug\dataapp.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\obj\Debug\dataapp.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\obj\Debug\dataapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\obj\Debug\dataapp.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\obj\Debug\dataapp.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day2\dataapp\dataapp\obj\Debug\dataapp.pdb
